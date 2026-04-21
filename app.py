@@ -16,7 +16,7 @@ from data_utils import (
 )
 
 st.set_page_config(
-    page_title="Lead Intelligence Dashboard",
+    page_title="Lead Intelligence Dashboard Green Raise Agro",
     layout="wide",
     page_icon="📊",
     initial_sidebar_state="expanded",
